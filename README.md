@@ -19,3 +19,4 @@ new Spinner({color:'#fff', lines: 12}).spin(target);
 ```
 
 For an interactive demo and a list of all supported options please refer to the [project's homepage](http://spin.js.org).
+allen add to test
